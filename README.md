@@ -9,11 +9,6 @@ This Bash script automates Git actions within subfolders containing `.git` repos
 3. Modify the `root_folder` variable to specify the folder where you want to start searching for subfolders.
 4. Run the script: `./scriptname.sh`.
 
-```
-**Windows Batch Script:**
-
-```
-
 # Windows Batch Script to Automate Git Actions in Subfolders
 
 This Windows Batch script automates Git actions within subfolders containing `.git` repositories. It performs a `git pull`, `git add .`, `git commit`, and `git push` for each subfolder with a `.git` folder.
